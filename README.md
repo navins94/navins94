@@ -15,7 +15,7 @@ Express.js, Jest,
 
 ## 📫 How to reach me
 
-You can find me on [![LinkedIn][3.2]][3], or on [![GitHub][1.2]][1].
+You can find me on [![LinkedIn][2.2]][2], or on [![GitHub][1.2]][1].
 
 <!-- Icons -->
 
