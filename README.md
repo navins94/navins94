@@ -31,7 +31,6 @@
 <p><a href="https://github.com/navins94" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/navin-shingote-8b18a6131/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navins94" alt="navins94" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navins94&show_icons=true&locale=en" alt="navins94" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navins94&layout=donut-vertical)
+[![Navins's GitHub stats](https://github-readme-stats.vercel.app/api?username=navins94)](https://github.com/navins94)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navins94&" alt="navins94" /></p>
