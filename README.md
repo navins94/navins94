@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, I'm Navin Shingote 👋
 
-<!--
-**navins94/navins94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full stack Developer(FE-Heavy) with 6 years of experience, specializing in JavaScript and React.
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript/TypeScript, React, HTML, CSS, Redux, Node.js, Next.js,
+Express.js, Jest, 
+
+## 📖 What I'm currently learning
+
+- Storybook
+- React Native
+- Flutter
+
+## 📫 How to reach me
+
+You can find me on [![LinkedIn][3.2]][3], or on [![GitHub][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts-->
+
+[1]: https://github.com/navins94
+[2]: https://www.linkedin.com/in/navin-shingote-8b18a6131
